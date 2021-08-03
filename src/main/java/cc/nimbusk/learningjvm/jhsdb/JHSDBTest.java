@@ -1,4 +1,4 @@
-package cc.nimbusk.jhsdb;
+package cc.nimbusk.learningjvm.jhsdb;
 
 public class JHSDBTest {
 

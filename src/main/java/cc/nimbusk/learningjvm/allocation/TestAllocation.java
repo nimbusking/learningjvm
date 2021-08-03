@@ -1,4 +1,4 @@
-package cc.nimbusk.allocation;
+package cc.nimbusk.learningjvm.allocation;
 
 public class TestAllocation {
 
