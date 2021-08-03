@@ -7,6 +7,7 @@ public class JHSDBTest {
         ObjectHolder instanceObj = new ObjectHolder();
         void foo() {
             ObjectHolder localObj = new ObjectHolder();
+            // 调试运行的时候，在这里设置一个断点，以方便通过jps获取jvm进程id
             System.out.println("done");
         }
     }
